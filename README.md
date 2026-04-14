@@ -1,0 +1,5 @@
+Trabalho n1 programacao orientada a objetos 
+alunos :
+JOÃO PEDRO RODRIGUES PARPINELLI
+KAIO LEVI SILVA DE SOUZA
+JÚLIO CÉZAR MENEZES DOS SANTOS 
